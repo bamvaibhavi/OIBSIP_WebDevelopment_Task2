@@ -18,7 +18,7 @@ The objective of this project was to design a responsive "Tribute Page" dedicate
 * **GitHub:** For version control and hosting.
 
 ## ⚙️ Steps Performed
-1.  **Subject Selection:** Chose **A.P.J. Abdul Kalam** as the subject and gathered biographical data, achievements, and high-quality images.
+1.  **Subject Selection:** Chose **Dr.A.P.J. Abdul Kalam** as the subject and gathered biographical data, achievements, and high-quality images.
 2.  **Layout Design:** Planned the structure using a main header for the title/image, a central section for the timeline/biography, and a footer for citations.
 3.  **HTML Structure:** Wrote the code to organize content into logical sections (`div`, `header`, `section`, `ul` for lists).
 4.  **Styling & Theming:** Applied CSS to create a cohesive color scheme that reflects the personality of the subject. Used Flexbox/Grid to align elements properly.
@@ -39,3 +39,4 @@ The final result is a polished, informative webpage that serves as a digital bio
 ### 📬 Connect
 * **LinkedIn:** [Your LinkedIn Profile Link]
 * **GitHub:** [Your GitHub Profile Link]
+
